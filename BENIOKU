@@ -1,1 +1,4 @@
-
+Oyunu kaynak kodundan çalıştırabilmek için aşağıdaki kütüphaneleri dahil etmeniz gereklidir:
+- LWJGL http://legacy.lwjgl.org/download.php.html (2.x versiyon önerilir.)
+- Slick2D http://slick.ninjacave.com/ jogg ve jorbis kütüphanelerini de bu dosyadan dahil etmeniz gerekir.
+İyi oyunlar.
